@@ -6,7 +6,7 @@
 
 
 ## Выполнено
-https://bel4enka.github.io/form_partner/main.html
+https://bel4enka.github.io/table_sorting/main.html
 
 Таблица создаётся с использованием тега "template". В поля таблицы подставляются данные, которые были получены методом fetch через цепочку promise.
 
